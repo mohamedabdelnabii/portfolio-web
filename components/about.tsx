@@ -26,7 +26,7 @@ export function About() {
 
           <div className="grid grid-cols-1 md:grid-cols-3 gap-6 pt-8">
             <div className="space-y-2">
-              <h3 className="text-2xl font-bold text-primary">3+</h3>
+              <h3 className="text-2xl font-bold text-primary">2+</h3>
               <p className="text-muted-foreground">Years Experience</p>
             </div>
             <div className="space-y-2">
